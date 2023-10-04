@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Muristanck</title>
+
+    </head>
+    <body>   
+           <h1 style="text-align: center;">Receitas</h1>
+       <p style="text-align: center;">Massas.</p>
+       <p style="text-align: center;">Sobremesas.</p>
+       <img src="img_cones.jpg" width="960" height="540">
+    </body>
+</html>
